@@ -1736,5 +1736,11 @@ img {
   color: #757575;
 }
 
+.certcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
 
 
